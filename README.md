@@ -1,5 +1,5 @@
 # Tarea 0 - Introducción a la Ciencia de Datos
-### Roxana Pérez Medina - 424013174
+### Roxana Pérez Medina
 
 Esta carpeta contiene una página HTML con dos hojas de estilo en cascada (CSS) diferentes.
 
